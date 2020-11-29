@@ -1,26 +1,55 @@
-title: Rebecca Cottrell  # name of the site
-author: Rebecca Cottrell # name of site's author
-email: r.e.cottrell@gmail.com # email of site's author
-url: https://rcottrell.com  # root address of the site
-baseurl: "/" # subpath of the site, e.g. "/blog"
-description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+title: Rebecca Cottrell
+author:
+  name: Rebecca Cottrell
+  email: r.e.cottrell@gmail.com
+description: Illustration and comics by Rebecca Cottrell
+show_excerpts: false # set to true to show excerpts on the homepage
 
-permalink: /:slug.html
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    instagram: rapturebird
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-sass:
-  style: :compressed
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+ - jekyll-feed
+ - jekyll-seo-tag

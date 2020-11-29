@@ -2,4 +2,4 @@
 layout: post
 ---
 
-This post is strange
+Some images go here
