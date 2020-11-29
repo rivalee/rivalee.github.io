@@ -7,22 +7,6 @@ permalink: /emergent-comic-strip/
 **Swatted** was my MA project at the RCA: a series of seven short comics about a fly who dies in every story. Although it sounds depressing, we can focus on the optimistic message that he's alive at the beginning of every new story.
 
 
-## Read the comics
-
-Patisserie
-
-Entomologist
-
-Hotel
-
-Cat
-
-Sceptre
-
-Fruit Bowl
-
-Ointment
-
 ## Flies
 
 I chose a fly as my main character. As Ken Hollings has said, "all cartoon characters are based on animals you wouldn't want inside your house".
@@ -51,6 +35,22 @@ Character rules determine how the character responds to the world around it, dra
 8. After the fly's death, there is silence, though events may still be occurring
 
 
+
+## Read the comics [tbc]
+
+Patisserie
+
+Entomologist
+
+Hotel
+
+Cat
+
+Sceptre
+
+Fruit Bowl
+
+Ointment
 
 ![Swatted](/assets/images/sw-fs-1.jpg)
 

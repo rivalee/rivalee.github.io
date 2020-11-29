@@ -5,6 +5,4 @@ permalink: /illustration/
 ---
 
 
-Illustrations
-
-Images go here innit. 
+Pictures coming soon.
