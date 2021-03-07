@@ -8,6 +8,12 @@ permalink: /images-and-paintings/
 <div class="image-gallery">
 
 <div class="image">
+<img src="../assets/images/illustration/looking_down.jpg">
+<p>Looking down, 2020</p>
+</div>
+
+
+<div class="image">
 <img src="../assets/images/illustration/a_dream_you.jpg">
 <p>A dream you remember, 2020</p>
 </div>
