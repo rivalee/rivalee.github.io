@@ -21,3 +21,6 @@ title: How to prepare for a dream
 
 <img src="/assets/images/imagine-youre-a-worm/5.jpg" width="40%">
 <p>&nbsp;</p>
+
+<img src="/assets/images/imagine-youre-a-worm/6.jpg" width="40%">
+<p>&nbsp;</p>
