@@ -9,24 +9,9 @@ layout: default
 
 
 
+
   {{ content }}
 
-<!--
-  <div class="intro">
-  <p>Is it egocentric to write something about myself here?</p>
-  </div>
--->
-
-
-<h2>Comics</h2>
-
-<p>Here are some short whimsical stories based entirely on <strike>fact</strike>.</p>
-
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
 
 
   {%- if posts.size > 0 -%}
@@ -49,6 +34,13 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
+
+
+    {% if site.paginate %}
+      {% assign posts = paginator.posts %}
+    {% else %}
+      {% assign posts = site.posts %}
+    {% endif %}
 
     {% if site.paginate %}
       <div class="pager">

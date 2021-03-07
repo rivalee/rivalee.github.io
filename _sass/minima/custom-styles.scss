@@ -1,8 +1,31 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 .intro {
-  background: #f0eed3;
-  padding: 20px;
   margin-bottom: $spacing-unit*4;
   font-size: 150%;
+}
+
+.post-list li {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.image-gallery {
+  clear: both;
+}
+
+.image {
+  padding: 0px;
+display: inline-block;
+  width: 32%;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+
+.text {
+  width: 70%;
+}
+
+
+.bg {
 }

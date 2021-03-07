@@ -16,12 +16,16 @@ dl, dd, ol, ul, figure {
 
 
 /**
- * Basic styling
+ * Basic styling\
+ background-image: url("/assets/images/bg_1.png");
+
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
+
+  background-color: white;
+  background-repeat: no-repeat;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -211,6 +215,7 @@ pre {
     padding-left: $spacing-unit;
   }
 }
+
 
 
 

@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: 'Thasadith', Helvetica, Arial, sans-serif !default;
+$base-font-family: Helvetica, Arial, sans-serif !default;
 $base-font-family-2: Helvetica, Arial, sans-serif !default;
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
 $base-font-size:   21px !default;
@@ -15,10 +15,10 @@ $spacing-unit:     30px !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    100% !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        1200px !default;
 
 $on-medium:        $on-palm !default;
 $on-large:         $on-laptop !default;
