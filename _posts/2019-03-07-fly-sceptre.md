@@ -15,7 +15,7 @@ title: Fly – Sceptre
 <p>&nbsp;</p>
 
 <img src="/assets/images/fly-sceptre/03.png" width="40%">
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 <img src="/assets/images/fly-sceptre/04.png" width="40%">
 <p>&nbsp;</p>
