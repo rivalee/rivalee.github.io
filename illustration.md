@@ -18,6 +18,11 @@ permalink: /images-and-paintings/
 </div>
 
 <div class="image">
+<img src="../assets/images/illustration/natural_forms.jpg">
+<p>Natural forms 1, 2020</p>
+</div>
+
+<div class="image">
 <img src="../assets/images/illustration/lookingdown.jpg">
 <p>Looking down, 2020</p>
 </div>
@@ -33,10 +38,7 @@ permalink: /images-and-paintings/
 <p>Cathedral cat, 2020 </p>
 </div>
 
-<div class="image">
-<img src="../assets/images/illustration/natural_forms.jpg">
-<p>Natural forms 1, 2020</p>
-</div>
+
 
 <div class="image">
 <img src="../assets/images/illustration/river_liffey.jpg">
