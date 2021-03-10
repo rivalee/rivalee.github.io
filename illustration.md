@@ -8,7 +8,17 @@ permalink: /images-and-paintings/
 <div class="image-gallery">
 
 <div class="image">
-<img src="../assets/images/illustration/looking_down.jpg">
+<img src="../assets/images/illustration/magic_pony.jpg" width="80%">
+<p>Magic pony, 2020</p>
+</div>
+
+<div class="image">
+<img src="../assets/images/illustration/alt_fruit_bowl.jpg">
+<p>Alt fruit bowl, 2020</p>
+</div>
+
+<div class="image">
+<img src="../assets/images/illustration/lookingdown.jpg">
 <p>Looking down, 2020</p>
 </div>
 
