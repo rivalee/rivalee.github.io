@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fly – Reorderable
+title: Fly (different order experiment)
 ---
 
 <p>An experiment in writing a story that can be read in a different order.</p>

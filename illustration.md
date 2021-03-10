@@ -7,6 +7,8 @@ permalink: /images-and-paintings/
 
 <div class="image-gallery">
 
+<p>I'm free for illustration commissions – work with me: r.e.cottrell@gmail.com</p>
+
 <div class="image">
 <img src="../assets/images/illustration/magic_pony.jpg" width="80%">
 <p>Magic pony, 2020</p>
