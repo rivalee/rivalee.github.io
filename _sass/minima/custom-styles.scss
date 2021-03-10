@@ -13,12 +13,19 @@
   clear: both;
 }
 
+.image-gallery image {
+  margin-left: auto;
+    margin-right: auto;
+  }
+
 .image {
   padding-right: 7px;
+  padding-left: 10px;
 display: inline-block;
   width: 31%;
   margin: 0 auto;
   vertical-align: middle;
+  margin-left: auto;
 }
 
 

@@ -30,6 +30,14 @@ permalink: /images-and-paintings/
 </div>
 
 
+
+<div class="image">
+<img src="../assets/images/fruitbowl.png" width="80%">
+<p><a href="../fly-comics">Fly comics</a>, 2020</p>
+</div>
+
+
+
 <div class="image">
 <img src="../assets/images/illustration/a_dream_you.jpg">
 <p>A dream you remember, 2020</p>
