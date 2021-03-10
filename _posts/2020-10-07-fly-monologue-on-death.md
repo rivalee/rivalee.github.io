@@ -5,7 +5,8 @@ title: Fly gives a monologue on death
 
 
 
-
+<img src="/assets/images/fly-death-monologue/0.png" width="40%">
+<p>&nbsp;</p>
 
 <img src="/assets/images/fly-death-monologue/1.png" width="40%">
 <p>&nbsp;</p>
