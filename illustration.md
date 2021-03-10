@@ -1,6 +1,6 @@
 ---
 layout: page
-title: images and paintings
+title: Images and paintings
 permalink: /images-and-paintings/
 ---
 

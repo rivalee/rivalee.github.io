@@ -2,7 +2,7 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 .intro {
   margin-bottom: $spacing-unit*4;
-  font-size: 150%;
+  font-size: 195%;
 }
 
 .post-list li {
@@ -23,9 +23,34 @@ display: inline-block;
 
 
 .text {
-  width: 70%;
+  width: 55%;
+  font-size: 140%;
 }
 
 
 .bg {
+}
+
+
+.site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: #fdfdfd;
+    border: 0px solid #666666;
+    border-radius: 5px;
+    text-align: right;
+  }
+
+
+.post-list h3 {
+  font-size: 5em !important;
+}
+
+.head-wrapper {
+  background: pink;
+}
+.trigger {
+  margin-top: -7px;
+  margin-right: 150px;
 }
