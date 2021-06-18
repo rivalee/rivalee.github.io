@@ -50,6 +50,56 @@ display: inline-block;
   }
 
 
+// Media queries experiment //
+
+  @media screen and (max-width: 575px) {
+      body {
+          color: black;
+      }
+
+      .text {
+        width: 100%;
+      }
+
+      .image-gallery {
+        width: 95%;
+      }
+      .image {
+        width: 100%;
+      }
+
+      .site-nav {
+        background: transparent;
+      }
+
+      .trigger {
+        width: 90%;
+        padding: 10px 20px 5px 0px;
+        background: white;
+        line-height: 100%;
+      }
+
+      .trigger a {
+        display: block;
+      }
+
+      .post-content p, img {
+        width: 100%;
+      }
+
+      .post-link {
+        font-size: 1.2rem;
+      }
+
+      .intro {
+        font-size: 1.5rem;
+      }
+  }
+//
+
+
+
+
 .post-list h3 {
   font-size: 5em !important;
 }
@@ -57,7 +107,8 @@ display: inline-block;
 .head-wrapper {
   background: pink;
 }
+
 .trigger {
   margin-top: -7px;
-  margin-right: 150px;
+  margin-right: 10px;
 }
