@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Thoughts are objects
-excerpt_separator: <!--end_excerpt-->
 ---
 
 
