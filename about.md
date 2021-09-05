@@ -18,6 +18,6 @@ I'm interested in natural laws and how they can be used to write stories, and us
 <p>
 <a href="https://www.itsnicethat.com/articles/dance-of-life-royal-college-of-art-london-print-studio-publication-221018">It's Nice That feature on our RCA graphic anthology</a><p>
 
-<p>I'm available for freelance illustration work!</p>
+<p>Work with me! Email me at r.e.cottrell@gmail.com.</p>
 
-<p>Email me at r.e.cottrell@gmail.com or follow me on instagram (<a href="https://instagram.com/rapturebird">@rapturebird</a>).</p>
+<p>Instagram: <a href="https://instagram.com/rapturebird">@rapturebird</a></p>

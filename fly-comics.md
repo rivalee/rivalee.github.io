@@ -22,17 +22,18 @@ permalink: /fly-comics/
 Rules shape behaviour and outcome, and a missing rule (something undefined) is an opportunity for emergence. An emergent comic strip uses a computational approach to authoring a story, where a human plays the role of a computer following a program: with the fleshy, flawed ability to iterate on a storyline in a way computers cannot.</p>
 
 
-<ol>
+<div class="fc">
+<ol class="fc">
 <li>Six panel stories</li>
 <li>The fly dies in every story</li>
-<li>A roll of the die determines the point at which the fly dies</li>
+<li>A roll of the die determines the panel at which the fly dies (1-6)</li>
 <li>The fly is always relentlessly optimistic despite the circumstances</li>
 <li>The fly appears to be refined despite his true status</li>
 <li>Often a second story is happening in the background</li>
 <li>The primary voice is the fly, who always speaks directly to the camera</li>
 <li>After the fly's death, there is silence, though events may still be occurring</li>
 </ol>
-
+</div>
 <h2>The comics</h2>
 
 
