@@ -7,12 +7,17 @@ permalink: /images-and-paintings/
 
 <div class="image-gallery">
 
-<p>I'm free for illustration commissions – work with me: r.e.cottrell@gmail.com</p>
+<p>Work with me! r.e.cottrell@gmail.com</p>
+
+
+<div class="image">
+<img src="/assets/images/illustration/horse_orchid.jpg" width="80%">
+<p>A horse orchid, 2021</p>
+</div>
+
 
 <div class="image">
 <img src="/assets/images/thoughts-are-objects/1.jpg" width="80%">
-
-
 <p><a href="../2021/08/20/thoughts-are-objects.html">Thoughts are objects comic</a>, 2021</p>
 </div>
 
