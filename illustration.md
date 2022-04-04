@@ -8,7 +8,7 @@ permalink: /images-and-paintings/
 <div class="image-gallery">
 
 <div class="image">
-<img src="/assets/images/illustration/vase_creatures_february_2022" width="80%">
+<img src="/assets/images/illustration/vase_creatures_february_2022.jpg" width="80%">
 <p>Vase creatures, 2022</p>
 </div>
 
