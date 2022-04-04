@@ -7,8 +7,10 @@ permalink: /images-and-paintings/
 
 <div class="image-gallery">
 
-<p>Work with me! r.e.cottrell@gmail.com</p>
-
+<div class="image">
+<img src="/assets/images/illustration/vase_creatures_february_2022" width="80%">
+<p>Vase creatures, 2022</p>
+</div>
 
 <div class="image">
 <img src="/assets/images/illustration/horse_orchid.jpg" width="80%">
