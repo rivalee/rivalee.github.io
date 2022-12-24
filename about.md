@@ -20,4 +20,6 @@ I'm interested in natural laws and how they can be used to write stories, and us
 
 <p>Work with me! Email me at r.e.cottrell@gmail.com.</p>
 
-<p>Instagram: <a href="https://instagram.com/rapturebird">@rapturebird</a></p>
+<p>Instagram: <a rel="me" href="https://instagram.com/rapturebird">@rapturebird</a></p>
+
+<p>Mastodon: <a rel="me" href="https://home.social/@rapturebird">home.social/@rapturebird</a>
