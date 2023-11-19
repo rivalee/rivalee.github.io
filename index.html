@@ -12,60 +12,62 @@ layout: default
 
 
   <div class="intro">
-  <p>Image- and short comic-maker (<a href=/about/>about</a>)</p>
+  <h2 class="intro">Illustrator + comic-maker</h2>
   </div>
 
-  <img src="/assets/images/you-are-atoms-2/1.png" width="45%">
+  <h2>Work</h2>
 
+  <body>
+    <main class="container">
+    <div class="box">
+      <div class="illo">
+      <img src="assets/images/illustration/sf_october_2023_rc.JPG">
+    </div>
+      <p><a href="illustration-boundless">boundless</a>, story illustration</p>
+    </div>
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-
-
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
+    <div class="box">      
+      <img src="assets/images/illustration/tank.jpeg">
+        <p>she's a tank, a batallion, a banyan, story illustration</p>
       </div>
-    {%- endif %}
 
-  {%- endif -%}
+      <div class="box">
+        <img src="assets/images/illustration/sf_they_come_out_of_nowhere.JPG">
+        <p>they come out of nowhere, story illustration</p>
+      </div>
+   
+
+    <div class="box">      
+      <img src="assets/images/illustration/aoife.jpg">
+    <p>aoife, story illustration</p>
+      </div>
+
+      <div class="box"><img src="/assets/images/merge/merge.gif">
+        <p><a href="2017/11/03/merge.html">Merge, personal comic</a></p>
+      </div>
+  
+
+    <div class="box">     
+       <img src="assets/images/illustration/sf_february_2023_toward_a_machine.JPG">
+      <p>towards a machine, story illustration</p></div>
+
+  
+
+  
+    <div class="box">      
+      <img src="assets/images/thoughts-are-objects/1.jpg">
+        <p><a href="2021/08/20/thoughts-are-objects.html">thoughts are objects, personal comic</a></p>
+      </div>
+  
+
+    <div class="box"><img src="assets/images/triangle-phone/01_cover.jpg">
+      <p><a href="2022/11/06/the-triangle-phone.html">the triangle phone, personal comic</a></p>
+    </div>
+
+  
+
+    </main>
+    </body>
+  
 
 </div>

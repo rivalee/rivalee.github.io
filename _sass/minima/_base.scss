@@ -120,11 +120,12 @@ h3 {
  * Links
  */
 a {
-  color: $link-base-color;
+  color: #224ef0;
   text-decoration: none;
+ 
 
   &:visited {
-    color: $link-visited-color;
+    color: #30479c;
   }
 
   &:hover {
@@ -289,3 +290,26 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+// grid for portfolio //
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 2fr));
+  grid-auto-rows: minmax(100px, auto);
+  }
+
+  .box {
+  margin: 30px 30px 30px 0;
+  } 
+  
+
+  .body-small {
+    font-size: 21px;
+  }
+
+
+  .simple-links {
+    display: inline-block;
+    border-bottom: 1px solid black;
+  }

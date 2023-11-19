@@ -2,11 +2,14 @@
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 body {
-  text-align: center;
+  text-align: left;
+  background: rgb(255,254,180);
+  background: linear-gradient(180deg, rgba(255,254,180,0.9976584383753502) 0%, rgba(245,245,158,0) 14%);
+  
 }
 
-.post-list {
-  text-align: center !important;
+  .post-list {
+  text-align: left;
 }
 
 
@@ -19,11 +22,15 @@ body {
 
 }
 .footer-col {
+  text-align: left;
 }
 
 .intro {
   margin-bottom: $spacing-unit*4;
-  font-size: 195%;
+}
+
+.intro h2 {
+
 }
 
 .post-list li {
@@ -53,7 +60,6 @@ display: inline-block;
 
 .text {
   width: 55%;
-  margin: 0 auto;
   font-size: 120%;
 }
 
@@ -61,14 +67,11 @@ display: inline-block;
 .bg {
 }
 
+//    position: absolute;//
 
 .site-nav {
-    position: absolute;
     top: 9px;
     right: 15px;
-    background-color: #fdfdfd;
-    border: 0px solid #666666;
-    border-radius: 5px;
     text-align: right;
   }
 
@@ -135,3 +138,4 @@ display: inline-block;
   margin-top: -7px;
   margin-right: 10px;
 }
+

@@ -6,8 +6,10 @@ permalink: /fly-comics/
 
 <div class="text">
 
-<img src="/assets/images/sw-fs-1.jpg" width="43%">
+<img src="/assets/images/sw-fs-1.jpg" width="100%">
+<p>Summer show, 2019, Royal College of Art, Kensington. Featuring an honesty box attached to the wall so people could buy comics during the show.</p>
 
+<h2>Swatted</h2>
 <p>Swatted is a series of short comics about a fly who dies in every story, created during my RCA MA.</p>
 
 
