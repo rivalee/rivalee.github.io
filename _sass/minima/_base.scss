@@ -295,7 +295,7 @@ table {
 
 .container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 2fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 2fr));
   grid-auto-rows: minmax(100px, auto);
   }
 
