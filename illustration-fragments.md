@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orange farm
-permalink: /illustration-orange-farm
+permalink: /illustration-fragments
 ---
 
 <div class="text">

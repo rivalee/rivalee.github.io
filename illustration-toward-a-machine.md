@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Toward a machine
-permalink: /illustration-towards-a-machine
+permalink: /illustration-toward-a-machine
 ---
 
 <div class="text">
