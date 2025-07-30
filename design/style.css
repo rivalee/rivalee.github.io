@@ -1,0 +1,53 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #222; 
+    line-height: 1.6;
+    letter-spacing: -0.03em;
+  }
+  
+  h1, h2, h3 {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+  }
+  
+  p {
+    font-size: 1rem;
+    margin-bottom: 1em;
+  }
+  
+  a {
+    color: #3f00ff; /* Ultramarine */
+    text-decoration: underline;
+    text-decoration-color: black; /* Black underline */
+  }
+  
+  a:focus {
+    background-color: #ffdd00; /* Highlight colour */
+    outline: none;
+  }
+
+  .container {
+  margin: 30px;
+}
+
+body.dark-mode {
+  color: #ddd;
+  background-color: #111;
+}
+
+body.dark-mode a {
+  color: #66aaff;
+  text-decoration-color: #fff;
+}

@@ -1,38 +1,85 @@
-// Placeholder to allow defining custom styles that override everything else.
-// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 body {
   text-align: left;
   background: rgb(255,254,180);
   background: linear-gradient(180deg, rgba(255,254,180,0.9976584383753502) 0%, rgba(245,245,158,0) 14%);
-  
 }
 
-  .post-list {
+p {
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 300;
+  color: #333;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #333;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #333;
+}
+
+.home {
   text-align: left;
 }
 
+.home .container {
+  display: block;
+  width: 100%;
+}
+
+.wrapper {
+  text-align: left;
+}
+
+.post-list {
+  text-align: left;
+}
 
 .fc {
   text-align: left;
 }
+
 .footer-col-wrapper {
   text-align: center;
   width: 100% !important;
-
 }
+
 .footer-col {
   text-align: left;
 }
 
+// Updated intro styling for painting focus - this is the main change
 .intro {
-  margin-bottom: $spacing-unit*4;
+  margin-bottom: 120px; // More space below
+  text-align: left; // Left align the name
+  margin-left: 0; // Ensure no extra left margin
+  padding-left: 0; // Remove any left padding
+}
+
+.intro h1 {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-bottom: 15px;
+  color: #333;
 }
 
 .intro h2 {
-
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #666;
+  font-style: normal; // Changed from italic to normal
 }
 
+// Keep all your existing styles below
 .post-list li {
   margin-bottom: 5px;
   margin-top: 5px;
@@ -44,19 +91,18 @@ body {
 
 .image-gallery image {
   margin-left: auto;
-    margin-right: auto;
-  }
+  margin-right: auto;
+}
 
 .image {
   padding-right: 7px;
   padding-left: 10px;
-display: inline-block;
+  display: inline-block;
   width: 31%;
   margin: 0 auto;
   vertical-align: middle;
   margin-left: auto;
 }
-
 
 .text {
   width: 55%;
@@ -68,68 +114,79 @@ display: inline-block;
   font-size: 120%;
 }
 
-
 .bg {
 }
 
-//    position: absolute;//
-
 .site-nav {
-    top: 9px;
-    right: 15px;
-    text-align: right;
+  top: 9px;
+  right: 15px;
+  text-align: right;
+}
+
+// Hide navigation links
+.site-nav {
+  display: none;
+}
+
+// Hide footer
+.site-footer {
+  display: none;
+}
+
+// Your existing media queries
+@media screen and (max-width: 575px) {
+  body {
+    color: black;
   }
 
-
-// Media queries experiment //
-
-  @media screen and (max-width: 575px) {
-      body {
-          color: black;
-      }
-
-      .text {
-        width: 100%;
-      }
-
-      .image-gallery {
-        width: 95%;
-      }
-      .image {
-        width: 100%;
-      }
-
-      .site-nav {
-        background: transparent;
-      }
-
-      .trigger {
-        width: 90%;
-        padding: 10px 20px 5px 0px;
-        background: white;
-        line-height: 100%;
-      }
-
-      .trigger a {
-        display: block;
-      }
-
-      .post-content p, img {
-        width: 100%;
-      }
-
-      .post-link {
-        font-size: 1.2rem;
-      }
-
-      .intro {
-        font-size: 1.5rem;
-      }
+  .text {
+    width: 100%;
   }
-//
 
+  .image-gallery {
+    width: 95%;
+  }
+  
+  .image {
+    width: 100%;
+  }
 
+  .site-nav {
+    background: transparent;
+  }
 
+  .trigger {
+    width: 90%;
+    padding: 10px 20px 5px 0px;
+    background: white;
+    line-height: 100%;
+  }
+
+  .trigger a {
+    display: block;
+  }
+
+  .post-content p, img {
+    width: 100%;
+  }
+
+  .post-link {
+    font-size: 1.2rem;
+  }
+
+  // Mobile styling for the new intro
+  .intro h1 {
+    font-size: 2.2rem;
+  }
+  
+  .intro h2 {
+    font-size: 1.4rem;
+  }
+  
+  .intro {
+    margin-bottom: 80px;
+  }
+}
 
 .post-list h3 {
   font-size: 5em !important;
@@ -143,4 +200,3 @@ display: inline-block;
   margin-top: -7px;
   margin-right: 10px;
 }
-
