@@ -1,16 +1,15 @@
 
 body {
   text-align: left;
-  background: rgb(255,254,180);
-  background: linear-gradient(180deg, rgba(255,254,180,0.9976584383753502) 0%, rgba(245,245,158,0) 14%);
+  background: white;
 }
 
 p {
-  font-size: 24px;
+  font-size: 19px;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 4rem;
   font-weight: 300;
   color: #333;
 }
@@ -57,12 +56,11 @@ h3 {
   text-align: left;
 }
 
-// Updated intro styling for painting focus - this is the main change
 .intro {
-  margin-bottom: 120px; // More space below
-  text-align: left; // Left align the name
-  margin-left: 0; // Ensure no extra left margin
-  padding-left: 0; // Remove any left padding
+  margin-bottom: 120px; 
+  text-align: left; 
+  margin-left: 0; 
+  padding-left: 0; 
 }
 
 .intro h1 {
@@ -76,10 +74,9 @@ h3 {
   font-size: 1.8rem;
   font-weight: 400;
   color: #666;
-  font-style: normal; // Changed from italic to normal
+  font-style: normal; 
 }
 
-// Keep all your existing styles below
 .post-list li {
   margin-bottom: 5px;
   margin-top: 5px;
