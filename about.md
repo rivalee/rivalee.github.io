@@ -5,17 +5,13 @@ permalink: /about/
 ---
 
 <div class="text">
-
-<img src="/assets/images/me.jpg" width="40%">
-<p></p>
-<p>
-Hello! I'm an image-maker, storyteller and designer. I live in the UK and graduated from the Royal College of Art (MA visual communication) in 2019.</p>
+<p><a href="/">← Back to home</a></p>
 
 <p>
-I'm interested in natural laws and how they can be used to write stories, and using humour and strange situations to create images and drawings with a certain... feeling. My RCA project focused on <a href="/fly-comics">a fly who dies in every story</a>, with every story lasting six panels long.</p>
+Rebecca Cottrell is a painter and artist living in South East London. Rebecca graduated from the Royal College of Art (MA visual communication) in 2019.</p>
 
+<p>
+Rebecca’s paintings explore the threshold between the visible and invisible, evoking a sense of altered perception and the deep interconnectedness of all things. She paints in gouache, acrylic and oil.</p>
 
-<h2>Contact</h2>
-<p>Need a drawing? Email me at r.e.cottrell@gmail.com.</p>
 
 <p>Instagram: <a rel="me" href="https://instagram.com/rapturebird">@rapturebird</a></p>
