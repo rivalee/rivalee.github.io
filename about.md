@@ -7,11 +7,16 @@ permalink: /about/
 <div class="text">
 <p><a href="/">← Back to home</a></p>
 
+<h3>Rebecca Cottrell</h3>
 <p>
-Rebecca Cottrell is a painter and artist living in South East London. Rebecca graduated from the Royal College of Art (MA visual communication) in 2019.</p>
+Artist working across painting, drawing, and experimental comics in South East London, exploring thresholds, myth and the visible/invisible/imagined 
+</p>
 
-<p>
-Rebecca’s paintings explore the threshold between the visible and invisible, evoking a sense of altered perception and the deep interconnectedness of all things. She paints in gouache, acrylic and oil.</p>
+<h3>Education / professional practice</h3>
+<p>Drawing intensive, Royal Drawing School, 2026</p>
+<p>MA Royal College of Art, 2019<p>
 
+
+<hr>
 
 <p>Instagram: <a rel="me" href="https://instagram.com/rapturebird">@rapturebird</a></p>

@@ -9,6 +9,10 @@
   position: relative;
 }
 
+body { 
+  background: pink;
+}
+
 .site-title {
   @include relative-font-size(1.2);
   font-weight: light;
