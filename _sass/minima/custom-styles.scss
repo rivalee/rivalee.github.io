@@ -1,7 +1,11 @@
 
 html, body {
   text-align: left;
-  background: #edf6ff !important;
+  background: #f7fbff !important;
+}
+
+body.about-page {
+  background: linear-gradient(180deg, #cfe6ff 0%, #ffffff 100%) !important;
 }
 
 hr {
@@ -24,7 +28,7 @@ hr {
 }
 
 p {
-  font-size: 24px;
+  font-size: 19px;
 }
 
 h1 {
@@ -80,11 +84,10 @@ h3 {
   text-align: left; 
   margin-left: 0; 
   padding-left: 0; 
-  font-size: 120%;
 }
 
 .intro h1 {
-  font-size: 2.625rem;
+  font-size: 2rem;
   font-weight: 300;
   margin-bottom: 15px;
   color: #333;
@@ -131,6 +134,34 @@ h3 {
   font-size: 120%;
 }
 
+.education-grid {
+  display: grid;
+  gap: 0.6rem;
+  margin-top: 0.6rem;
+}
+
+.education-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 0.2rem;
+  padding: 0.45rem 0;
+}
+
+.education-programme,
+.education-detail {
+  margin: 0;
+}
+
+.education-programme {
+  font-weight: 800;
+  font-size: 0.9em;
+}
+
+.education-detail {
+  font-size: 0.75em;
+  line-height: 1.35;
+}
+
 .site-nav {
   top: 9px;
   right: 15px;
@@ -151,36 +182,14 @@ h3 {
 @media screen and (max-width: 575px) {
   body {
     color: black;
-    font-size: 20px;
-  }
-
-  p {
-    font-size: 20px;
-  }
-
-  h1 {
-    font-size: 2.8rem;
-  }
-
-  .post-title {
-    font-size: 2rem;
-  }
-
-  h2 {
-    font-size: 1.8rem;
-  }
-
-  h3 {
-    font-size: 1.3rem;
-  }
-
-  .text,
-  .text-2 {
-    font-size: 100%;
   }
 
   .text {
     width: 100%;
+  }
+
+  .education-detail {
+    font-size: 0.8em;
   }
 
   .image-gallery {
@@ -214,13 +223,9 @@ h3 {
     font-size: 1.2rem;
   }
 
-  .post-list h3 {
-    font-size: 2rem !important;
-  }
-
   // Mobile styling for the new intro
   .intro h1 {
-    font-size: 2rem;
+    font-size: 2.2rem;
   }
   
   .intro h2 {
@@ -228,7 +233,6 @@ h3 {
   }
   
   .intro {
-    font-size: 100%;
     margin-bottom: 80px;
   }
 }
