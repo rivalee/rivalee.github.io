@@ -80,10 +80,11 @@ h3 {
   text-align: left; 
   margin-left: 0; 
   padding-left: 0; 
+  font-size: 120%;
 }
 
 .intro h1 {
-  font-size: 2rem;
+  font-size: 2.625rem;
   font-weight: 300;
   margin-bottom: 15px;
   color: #333;
@@ -219,7 +220,7 @@ h3 {
 
   // Mobile styling for the new intro
   .intro h1 {
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
   
   .intro h2 {
@@ -227,6 +228,7 @@ h3 {
   }
   
   .intro {
+    font-size: 100%;
     margin-bottom: 80px;
   }
 }

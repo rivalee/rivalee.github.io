@@ -18,4 +18,4 @@ Artist working in painting and drawing. I'm interested in: travelling towards in
 
 <hr>
 
-<p>Instagram: <a rel="me" href="https://instagram.com/rapturebird">@rapturebird</a></p>
+  <p>Instagram: <a href="https://instagram.com/rapturebird">@rapturebird</a>, email: r.e.cottrell@gmail.com</p>
