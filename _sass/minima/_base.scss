@@ -120,7 +120,8 @@ h3 {
  */
 a {
   color: #224ef0;
-  text-decoration: none;
+  font-weight: 700;
+  text-decoration: underline;
  
 
   &:visited {
@@ -139,6 +140,12 @@ a {
       text-decoration: underline;
     }
   }
+}
+
+a.back-link,
+a.back-link:hover,
+a.back-link:visited {
+  text-decoration: none;
 }
 
 

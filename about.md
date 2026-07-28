@@ -1,20 +1,19 @@
 ---
 layout: page
-title: About
+title: About Rebecca
 permalink: /about/
+show_home_link_top: true
 ---
 
 <div class="text">
-<p><a href="/">← Back to home</a></p>
-
-<h3>Rebecca Cottrell</h3>
 <p>
-Artist working across painting, drawing, and experimental comics in South East London, exploring thresholds, myth and the visible/invisible/imagined 
+Artist who paints and draws and is interested in: travelling towards indeterminacy from precision / nature / organic forms / gates / fences / things seen / things unseen
 </p>
 
 <h3>Education / professional practice</h3>
-<p>Drawing intensive, Royal Drawing School, 2026</p>
-<p>MA Royal College of Art, 2019<p>
+<p>Turps painting CC, 2027</p>
+<p>Royal Drawing School, drawing intensive, 2026</p>
+<p>MA Royal College of Art, 2019 (experimental comics: a fly dies in every 6-frame story)<p>
 
 
 <hr>
