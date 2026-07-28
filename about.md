@@ -14,7 +14,7 @@ Artist working in painting and drawing. I'm interested in: travelling towards in
 <h3>Education / professional practice</h3>
 <div class="education-grid">
   <div class="education-row">
-    <p class="education-programme">Turps painting CC, 2027</p>
+    <p class="education-programme">Turps painting CC 2026/2027</p>
     <p class="education-detail">I'm about to do this</p>
   </div>
 
