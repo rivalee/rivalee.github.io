@@ -7,7 +7,7 @@ show_home_link_top: true
 
 <div class="text">
 <p>
-Artist who paints and draws and is interested in: travelling towards indeterminacy from precision / nature / organic forms / gates / fences / things seen / things unseen
+Artist working in painting and drawing. I'm interested in: travelling towards indeterminacy from precision / nature / organic forms / gates / fences / things seen / things unseen
 </p>
 
 <h3>Education / professional practice</h3>
