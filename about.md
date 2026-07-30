@@ -8,9 +8,9 @@ show_home_link_top: true
 
 <div class="text">
 <p>
-Artist working in painting and drawing, based in South East London.</p>
+Artist working in painting and drawing, living in South East London.</p>
 
-<p> Things I'm interested in include: travelling towards indeterminacy from precision / nature / organic forms / gates / fences / things seen / things unseen
+<p> Things I'm interested in include: travelling towards indeterminacy from precision / nature / organic forms / created forms / gates / fences / things seen / things unseen
 </p>
 
 <h3>Education / professional practice</h3>
