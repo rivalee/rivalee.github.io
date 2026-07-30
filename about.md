@@ -8,7 +8,9 @@ show_home_link_top: true
 
 <div class="text">
 <p>
-Artist working in painting and drawing. I'm interested in: travelling towards indeterminacy from precision / nature / organic forms / gates / fences / things seen / things unseen
+Artist working in painting and drawing, based in South East London.</p>
+
+<p> Things I'm interested in include: travelling towards indeterminacy from precision / nature / organic forms / gates / fences / things seen / things unseen
 </p>
 
 <h3>Education / professional practice</h3>
@@ -25,8 +27,9 @@ Artist working in painting and drawing. I'm interested in: travelling towards in
 
   <div class="education-row">
     <p class="education-programme">Royal College of Art, MA Visual Communication, 2019</p>
-    <p class="education-detail">Experimental comics: created a series of six-panel, risograph-printed comics about a fly who dies in every story, sold via an honesty box at the final show.</p>
+    <p class="education-detail">Experimental comics: created a series of six-panel, risograph-printed comics about a fly who dies in every story, sold via an honesty box at the summer show.</p>
     <p class="education-detail">Dissertation (distinction) on gaps, spaces and imagination.</p>
+
 
   </div>
 </div>
