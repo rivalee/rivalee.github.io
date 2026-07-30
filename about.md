@@ -24,8 +24,10 @@ Artist working in painting and drawing. I'm interested in: travelling towards in
   </div>
 
   <div class="education-row">
-    <p class="education-programme">MA Royal College of Art, 2019</p>
-    <p class="education-detail">After getting distracted making bizarre fake bones and meat out of modelling clay, I focused on experimental comics, creating a series of six-panel risograph-printed comics where a fly dies in every story. I sold these via an honesty box at the final show</p>
+    <p class="education-programme">Royal College of Art, MA Visual Communication, 2019</p>
+    <p class="education-detail">Experimental comics: created a series of six-panel, risograph-printed comics about a fly who dies in every story, sold via an honesty box at the final show.</p>
+    <p class="education-detail">Dissertation (distinction) on gaps, spaces and imagination.</p>
+
   </div>
 </div>
 
