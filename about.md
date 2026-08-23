@@ -11,8 +11,7 @@ show_home_link_top: true
 Artist exploring thresholds through painting and drawing. Living in South East London.</p>
 
 <p>
-Things I'm interested in include indeterminacy / organic forms / constructed forms / nature plus / gateways / fences  / things seen / things unseen / humour
-
+Interested in indeterminacy / organic forms / constructed forms / nature plus / gateways / fences  / things seen / things unseen / humour
 </p>
 
 <h3>Education / professional practice</h3>
