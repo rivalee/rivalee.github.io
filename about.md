@@ -12,7 +12,7 @@ Painter living in South East London.</p>
 
 <p>I make paintings of strange objects, creatures, structures and staged worlds. I return to these forms because they suggest something unknown, or just beyond ordinary reality. I invent forms from observation, memory and imagination. I want my work to create a certain feeling: an uncanniness, a recognition of something that’s been forgotten.<p>
 
-<p><a href="https://instagram.com">Instagram</a> is the best place to see my work right now, until I update this website. (I promise I will!)</p>
+<p><a href="https://instagram.com/rapturebird">Instagram</a> is the best place to see my work right now, until I update this website. (I promise I will!)</p>
 
 
 <h3>Education / professional practice</h3>
