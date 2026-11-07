@@ -8,17 +8,18 @@ show_home_link_top: true
 
 <div class="text">
 <p>
-Artist exploring thresholds through painting and drawing. Living in South East London.</p>
+Painter living in South East London.</p>
 
-<p>
-Interested in indeterminacy / organic forms / constructed forms / nature plus / gateways / fences  / things seen / things unseen / humour
-</p>
+<p>I make paintings of strange objects, creatures, structures and staged worlds. I return to these forms because they suggest something unknown, or just beyond ordinary reality. I invent forms from observation, memory and imagination. I want my work to create a certain feeling: an uncanniness, a recognition of something that’s been forgotten.<p>
+
+<p><a href="https://instagram.com">Instagram<a>is the best place to see my work right now, until I update this website. (I promise I will!)</p>
+
 
 <h3>Education / professional practice</h3>
 <div class="education-grid">
   <div class="education-row">
     <p class="education-programme">Turps painting CC 2026/2027</p>
-    <p class="education-detail">I'm about to do this</p>
+    <p class="education-detail">Currently doing this</p>
   </div>
 
   <div class="education-row">
