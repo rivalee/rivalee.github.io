@@ -4,6 +4,17 @@ html, body {
   background: #f7fbff !important;
 }
 
+body {
+  font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+}
+
 body.about-page,
 body.index-page {
   background: linear-gradient(180deg, #cfe6ff 0%, #ffffff 100%) !important;
@@ -11,7 +22,7 @@ body.index-page {
 
 hr {
   border: 0;
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #000;
   margin: 2rem 0;
 }
 
@@ -28,25 +39,18 @@ hr {
   height: auto;
 }
 
-p {
-  font-size: 19px;
-}
-
 h1 {
   font-size: 4rem;
-  font-weight: 300;
   color: #333;
 }
 
 h2 {
   font-size: 2rem;
-  font-weight: 400;
   color: #333;
 }
 
 h3 {
   font-size: 1.5rem;
-  font-weight: 400;
   color: #333;
 }
 
@@ -78,6 +82,10 @@ h3 {
 
 .footer-col {
   text-align: left;
+}
+
+.site-footer .body-small {
+  font-size: 0.75rem;
 }
 
 .intro {
@@ -127,13 +135,15 @@ h3 {
 }
 
 .text {
-  width: 55%;
+  width: 100%;
   font-size: 120%;
+  max-width: 65ch;
 }
 
 .text-2 {
-  width: 55%;
+  width: 100%;
   font-size: 120%;
+  max-width: 65ch;
 }
 
 .education-grid {
