@@ -11,7 +11,7 @@ description: "About Rebecca Cottrell, a painter in South East London: her work, 
   <div class="about-content">
     <p>Painter living in South East London</p>
 
-<p>I make paintings of strange objects, creatures, structures and staged worlds. I return to these forms because they suggest something unknown, just beyond ordinary reality. I invent forms from observation, memory and imagination. I want my work to create a certain feeling: an uncanniness, a recognition of something that's been forgotten.</p>
+<p>I make paintings of strange objects, creatures, structures and staged worlds. I return to these forms because they suggest something unknown, just beyond ordinary reality. I want my work to create a certain feeling: an uncanniness, a recognition of something that's been forgotten.</p>
 
 <p><a href="https://instagram.com/rapturebird">See new paintings on Instagram @rapturebird →</a></p>
 

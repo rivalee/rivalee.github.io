@@ -39,6 +39,9 @@ h1, h2, h3 {
 
 body.about-page,
 body.index-page {
+  .page-content {
+    padding-bottom: 0;
+  }
 }
 
 body.about-page .post-content {
@@ -187,10 +190,15 @@ h3 {
   grid-template-columns: 2fr 1fr;
   gap: 3rem;
   align-items: start;
+  grid-auto-rows: max-content;
 }
 
 .about-content {
   min-width: 0;
+}
+
+.about-content h3 {
+  margin-top: 2rem;
 }
 
 .about-image {
@@ -203,6 +211,23 @@ h3 {
   width: 100%;
 }
 
+.paintings-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+  margin-top: -1.5rem;
+  width: 66.67%;
+}
+
+.painting-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.painting-item img {
+  width: 50%;
+}
+
 @media screen and (max-width: 900px) {
   .about-grid {
     grid-template-columns: 1fr;
@@ -213,6 +238,10 @@ h3 {
     width: 100%;
     max-width: 100%;
     margin-top: 1rem;
+  }
+
+  .paintings-grid {
+    grid-template-columns: 1fr;
   }
 }
 
