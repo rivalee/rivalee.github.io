@@ -1,17 +1,35 @@
 
 html, body {
   text-align: left;
-  background: #F0F8E8 !important;
+  background: var(--bg);
 }
 
-a:hover {
-  color: #000;
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+a:hover, a:active {
+  color: var(--link-hover);
+  text-decoration-thickness: 2px;
+}
+
+a:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 body {
   font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
   font-size: 1.15rem;
   line-height: 1.6;
+  color: var(--text);
 }
 
 h1, h2, h3 {
@@ -23,9 +41,17 @@ body.about-page,
 body.index-page {
 }
 
+body.about-page .post-content {
+  margin-bottom: 1rem;
+}
+
+body.about-page .site-footer {
+  width: 100%;
+}
+
 hr {
   border: 0;
-  border-top: 2px solid #000;
+  border-top: 1px solid var(--rule);
   margin: 2rem 0 0.2rem 0;
 }
 
@@ -52,17 +78,17 @@ hr:last-of-type {
 
 h1 {
   font-size: 4rem;
-  color: #333;
+  color: var(--heading);
 }
 
 h2 {
   font-size: 2rem;
-  color: #333;
+  color: var(--heading);
 }
 
 h3 {
   font-size: 1.5rem;
-  color: #333;
+  color: var(--heading);
 }
 
 .home {
@@ -114,13 +140,13 @@ h3 {
   font-size: 2.625rem;
   font-weight: 300;
   margin-bottom: 15px;
-  color: #333;
+  color: var(--heading);
 }
 
 .intro h2 {
   font-size: 1.8rem;
   font-weight: 400;
-  color: #666;
+  color: var(--muted);
   font-style: normal; 
 }
 
@@ -150,7 +176,7 @@ h3 {
 
 .image-caption {
   font-size: 0.85em;
-  color: #666;
+  color: var(--muted);
   font-weight: 400;
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
@@ -158,34 +184,35 @@ h3 {
 
 .about-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 1fr;
   gap: 3rem;
   align-items: start;
 }
 
 .about-content {
-  grid-column: 1;
+  min-width: 0;
 }
 
 .about-image {
-  grid-column: 2;
-  position: sticky;
-  top: 2rem;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
 }
 
 .about-image img {
   width: 100%;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 900px) {
   .about-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
   
   .about-image {
-    position: static;
-    grid-column: 1;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 1rem;
   }
 }
 
@@ -213,25 +240,24 @@ h3 {
 }
 
 .education-programme,
-.education-detail,
 .education-year {
   margin: 0;
 }
 
 .education-year {
   font-weight: 400;
-  font-size: 0.85em;
-  color: #666;
+  font-size: 0.95em;
+  color: var(--muted);
   margin-bottom: 0;
 }
 
 .education-programme {
   font-weight: 600;
-  font-size: 0.9em;
+  font-size: 1em;
 }
 
 .education-detail {
-  font-size: 0.75em;
+  font-size: 0.85em;
   line-height: 1.35;
 }
 
@@ -249,7 +275,7 @@ h3 {
 // Your existing media queries
 @media screen and (max-width: 575px) {
   body {
-    color: black;
+    color: var(--text);
   }
 
   .text {
@@ -257,7 +283,7 @@ h3 {
   }
 
   .education-programme {
-    font-weight: 500;
+    font-weight: 700;
   }
 
   .education-detail {
@@ -279,7 +305,7 @@ h3 {
   .trigger {
     width: 90%;
     padding: 10px 20px 5px 0px;
-    background: white;
+    background: var(--bg);
     line-height: 100%;
   }
 
@@ -314,7 +340,7 @@ h3 {
 }
 
 .head-wrapper {
-  background: pink;
+  background: var(--bg);
 }
 
 .trigger {
