@@ -16,24 +16,25 @@ Painter living in South East London.</p>
 
 <img src="/assets/images/paintings/spirit.png" width="50%" />
 
-<h3>Education / professional practice</h3>
+<h3>Education & practice</h3>
 <div class="education-grid">
   <div class="education-row">
-    <p class="education-programme">Turps painting CC 2026/2027</p>
+    <p class="education-year">2026/2027</p>
+    <p class="education-programme">Turps painting CC</p>
     <p class="education-detail">Currently doing this</p>
   </div>
 
   <div class="education-row">
-    <p class="education-programme">Royal Drawing School, drawing intensive, 2026</p>
+    <p class="education-year">2026</p>
+    <p class="education-programme">Royal Drawing School, drawing intensive</p>
     <p class="education-detail">I did a lot of drawing in the spring and summer of 2026</p>
   </div>
 
   <div class="education-row">
-    <p class="education-programme">Royal College of Art, MA Visual Communication, 2019</p>
+    <p class="education-year">2019</p>
+    <p class="education-programme">Royal College of Art, MA Visual Communication</p>
     <p class="education-detail">Experimental comics: created a series of six-panel, risograph-printed comics about a fly who dies in every story, sold via an honesty box at the summer show.</p>
     <p class="education-detail">Dissertation (distinction) on gaps, spaces and imagination.</p>
-
-
   </div>
 </div>
 

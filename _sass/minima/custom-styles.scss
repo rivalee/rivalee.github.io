@@ -158,12 +158,20 @@ h3 {
 }
 
 .education-programme,
-.education-detail {
+.education-detail,
+.education-year {
   margin: 0;
 }
 
+.education-year {
+  font-weight: 400;
+  font-size: 0.85em;
+  color: #666;
+  margin-bottom: 0.2rem;
+}
+
 .education-programme {
-  font-weight: 800;
+  font-weight: 600;
   font-size: 0.9em;
 }
 
