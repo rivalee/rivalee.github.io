@@ -41,5 +41,5 @@ Painter living in South East London.</p>
 
 <hr>
 
-<p><a href="https://instagram.com/rapturebird">Instagram @rapturebird</a></p>
-<p><a href="mailto:r.e.cottrell@gmail.com">r.e.cottrell@gmail.com</a></p>
+<p>Email: <a href="mailto:r.e.cottrell@gmail.com">r.e.cottrell@gmail.com</a></p>
+<p>Instagram: <a href="https://instagram.com/rapturebird">@rapturebird</a></p>
