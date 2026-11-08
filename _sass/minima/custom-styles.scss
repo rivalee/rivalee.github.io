@@ -4,18 +4,6 @@ html, body {
   background: #f7fbff !important;
 }
 
-a {
-  color: #7FBF00;
-}
-
-a:visited {
-  color: darken(#7FBF00, 15%);
-}
-
-a:hover {
-  color: darken(#7FBF00, 25%);
-}
-
 body {
   font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
   font-size: 1.15rem;
@@ -29,7 +17,7 @@ h1, h2, h3 {
 
 body.about-page,
 body.index-page {
-  background: linear-gradient(180deg, #cfe6ff 0%, #ffffff 100%) !important;
+  background: linear-gradient(180deg, #7FBF00 0%, #ffffff 100%) !important;
 }
 
 hr {
