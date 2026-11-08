@@ -40,5 +40,3 @@ Painter living in South Easbt London</p>
 </div>
 
 <hr>
-
-  </div>
