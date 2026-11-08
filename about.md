@@ -14,7 +14,7 @@ Painter living in South East London.</p>
 
 <p><a href="https://instagram.com/rapturebird">Instagram</a> is the best place to see my work right now, until I update this website. (I promise I will!)</p>
 
-<img src="images/paintings/spirit.png" width="100%" />
+<img src="/assets/images/paintings/spirit.png" width="100%" />
 
 <h3>Education / professional practice</h3>
 <div class="education-grid">
