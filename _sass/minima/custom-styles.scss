@@ -45,6 +45,11 @@ body.index-page {
     flex: none !important;
     padding-bottom: 0 !important;
   }
+  
+  .site-footer {
+    margin-top: 0;
+    padding-top: 0 !important;
+  }
 }
 
 body.about-page .post-content {
@@ -190,7 +195,7 @@ h3 {
 
 .about-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 3fr 1fr;
   gap: 3rem;
   align-items: start;
   grid-auto-rows: max-content;
@@ -278,18 +283,18 @@ h3 {
 
 .education-year {
   font-weight: 400;
-  font-size: 0.95em;
+  font-size: 1.05em;
   color: var(--muted);
   margin-bottom: 0;
 }
 
 .education-programme {
   font-weight: 600;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 .education-detail {
-  font-size: 0.85em;
+  font-size: 0.95em;
   line-height: 1.35;
 }
 
