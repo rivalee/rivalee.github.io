@@ -25,6 +25,10 @@ hr {
   margin: 2rem 0 0.2rem 0;
 }
 
+p + hr {
+  margin-top: 0.5rem;
+}
+
 .home section.work {
   margin-top: 3rem;
 }
