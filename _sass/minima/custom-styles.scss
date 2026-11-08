@@ -161,7 +161,6 @@ h3 {
   grid-template-columns: 1fr 1fr;
   gap: 3rem;
   align-items: start;
-  width: 100%;
 }
 
 .about-content {
@@ -178,7 +177,7 @@ h3 {
   width: 100%;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1200px) {
   .about-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
