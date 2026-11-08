@@ -12,7 +12,7 @@ Painter living in South East London.</p>
 
 <p>I make paintings of strange objects, creatures, structures and staged worlds. I return to these forms because they suggest something unknown, or just beyond ordinary reality. I invent forms from observation, memory and imagination. I want my work to create a certain feeling: an uncanniness, a recognition of something that’s been forgotten.<p>
 
-<p><a href="https://instagram.com/rapturebird">Instagram</a> is the best place to see my work right now, until I update this website. (I promise I will!)</p>
+<p><a href="https://instagram.com/rapturebird">See recent work on Instagram @rapturebird →</a></p>
 
 <img src="/assets/images/paintings/spirit2.png" width="50%" />
 <p class="image-caption">The spirit is the door, oil on wood panel, 10x8in, 2026</p>
@@ -41,4 +41,5 @@ Painter living in South East London.</p>
 
 <hr>
 
-  <p>Instagram: <a href="https://instagram.com/rapturebird">@rapturebird</a>, email: r.e.cottrell@gmail.com</p>
+<p><a href="https://instagram.com/rapturebird">Instagram @rapturebird</a></p>
+<p><a href="mailto:r.e.cottrell@gmail.com">r.e.cottrell@gmail.com</a></p>
