@@ -29,6 +29,10 @@ p + hr {
   margin-top: 0.5rem;
 }
 
+hr:last-of-type {
+  margin-bottom: 0;
+}
+
 .home section.work {
   margin-top: 3rem;
 }
