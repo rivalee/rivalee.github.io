@@ -156,6 +156,39 @@ h3 {
   margin-bottom: 1.5rem;
 }
 
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+.about-content {
+  grid-column: 1;
+}
+
+.about-image {
+  grid-column: 2;
+  position: sticky;
+  top: 2rem;
+}
+
+.about-image img {
+  width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .about-image {
+    position: static;
+    grid-column: 1;
+  }
+}
+
 .text {
   width: 60%;
   font-size: 120%;
