@@ -40,7 +40,7 @@ h1, h2, h3 {
 body.about-page,
 body.index-page {
   .page-content {
-    padding-bottom: 0;
+    flex: none;
   }
 }
 
