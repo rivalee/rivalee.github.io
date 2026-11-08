@@ -4,6 +4,18 @@ html, body {
   background: #f7fbff !important;
 }
 
+a {
+  color: #7FBF00;
+}
+
+a:visited {
+  color: darken(#7FBF00, 15%);
+}
+
+a:hover {
+  color: darken(#7FBF00, 25%);
+}
+
 body {
   font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
   font-size: 1.15rem;
@@ -22,7 +34,7 @@ body.index-page {
 
 hr {
   border: 0;
-  border-top: 1px solid #000;
+  border-top: 2px solid #7FBF00;
   margin: 2rem 0;
 }
 

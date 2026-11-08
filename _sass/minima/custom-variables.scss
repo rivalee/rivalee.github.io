@@ -1,4 +1,9 @@
 // Placeholder to allow overriding predefined variables smoothly.
 
 //
-$base-font-family: 'Thasadith', sans-serif;//
+$base-font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
+
+// Override link color to lime green
+$link-base-color: #7FBF00;
+$link-visited-color: darken($link-base-color, 15%);
+$link-hover-color: darken($link-base-color, 25%);
