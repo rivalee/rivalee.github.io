@@ -39,10 +39,11 @@ h1, h2, h3 {
 
 body.about-page,
 body.index-page {
-  min-height: auto;
+  min-height: auto !important;
   
   .page-content {
-    flex: none;
+    flex: none !important;
+    padding-bottom: 0 !important;
   }
 }
 
