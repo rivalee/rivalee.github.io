@@ -1,8 +1,15 @@
 title: Rebecca Cottrell
+tagline: Painter in South East London
 author:
   name: Rebecca Cottrell
   email: r.e.cottrell@gmail.com
-description: Artist website
+description: "Paintings of strange objects, creatures, structures and staged worlds by Rebecca Cottrell, an artist based in South East London."
+lang: en-GB
+locale: en_GB
+image:
+  path: /assets/images/social-preview.jpg
+  alt: "Painting of a bird with a curling tail standing in an archway"
+url: "https://rcottrell.com"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 

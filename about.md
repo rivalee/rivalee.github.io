@@ -4,6 +4,7 @@ title: About Rebecca
 permalink: /about/
 body_class: about-page
 show_home_link_top: true
+description: "About Rebecca Cottrell, a painter in South East London: her work, training (Turps, Royal Drawing School, Royal College of Art) and contact details."
 ---
 
 <div class="about-grid">
